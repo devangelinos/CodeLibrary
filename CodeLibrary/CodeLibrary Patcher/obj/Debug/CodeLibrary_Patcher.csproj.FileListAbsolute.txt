@@ -1,0 +1,7 @@
+C:\Users\User\Documents\Visual Studio 2017\Projects\CodeLibrary\CodeLibrary\bin\Debug\CodeLibrary_Patcher.exe.config
+C:\Users\User\Documents\Visual Studio 2017\Projects\CodeLibrary\CodeLibrary\bin\Debug\CodeLibrary_Patcher.exe
+C:\Users\User\Documents\Visual Studio 2017\Projects\CodeLibrary\CodeLibrary\bin\Debug\CodeLibrary_Patcher.pdb
+C:\Users\User\Documents\Visual Studio 2017\Projects\CodeLibrary\CodeLibray Patcher\obj\Debug\CodeLibrary_Patcher.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\Visual Studio 2017\Projects\CodeLibrary\CodeLibray Patcher\obj\Debug\CodeLibrary_Patcher.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Visual Studio 2017\Projects\CodeLibrary\CodeLibray Patcher\obj\Debug\CodeLibrary_Patcher.exe
+C:\Users\User\Documents\Visual Studio 2017\Projects\CodeLibrary\CodeLibray Patcher\obj\Debug\CodeLibrary_Patcher.pdb
